@@ -4,7 +4,7 @@
 
 ## Instalation
 
-In console run the following commands:
+To see project run the following commands in console:
 
 - npm install
 - npm run dev
